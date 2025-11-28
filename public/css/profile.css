@@ -1,0 +1,18 @@
+	body {
+	  margin: 0;
+	  font-family: Arial, Helvetica, sans-serif;
+	  background-color: #7d18f0;
+	  color: #ee0c0c;
+	}
+	header {
+	  background-color: #ed9528;
+	  color: rgb(255, 255, 255);
+	  text-align: center;
+	  padding: 20px;
+	}
+    section {
+	  background-color: #005f99;
+	  color: white;
+	  font-size: 40px;
+	  padding: 20px;
+	}
